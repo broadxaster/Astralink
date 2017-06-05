@@ -12,7 +12,7 @@ Astralink sample app composed of 3 main pieces:**Network manager**, **Model**, *
 
 Getting Started
 =========================
-1. Please run pod install
+1. Please run pod install terminal command
 2. open the Astralink.xcworkspace
 
 open source libraries
