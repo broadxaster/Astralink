@@ -10,6 +10,11 @@ Astralink sample app composed of 3 main pieces:**Network manager**, **Model**, *
 2. **Model** - The Model layer manage all the parsing into easy to use model
 2. **User Defaults Utils** - The User Defaults Utils layer manage all the persistent data (favorites)
 
+Getting Started
+=========================
+1. Please run pod install
+2. open the Astralink.xcworkspace
+
 open source libraries
 =========================
 1. **Almofire** - a HTTP networking library written in Swift https://github.com/Alamofire/Alamofire
